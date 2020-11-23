@@ -6,6 +6,7 @@
 
 The application was complete and working, however my objective was to make sure the application was able to work offline and make sure the entries from offline get updated and pushed once online
 
+![](img/img1.png)
 
 ## Table of Contents
 
