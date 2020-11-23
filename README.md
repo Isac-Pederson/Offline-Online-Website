@@ -1,5 +1,5 @@
 # Offline-Online-Website
-  ![Badge for Github repo license](https://img.shields.io/badge/Offline-Online-Website%20-IsacPederson-green)
+  ![Badge for Github repo license](https://img.shields.io/badge/OfflineOnlineWebsite%20-IsacPederson-green)
  
 
 ## Description
